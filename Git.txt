@@ -1,0 +1,22 @@
+The SSH protocol is a method for secure remote login from one computer to another.
+
+There are a few basic Git commands that you will always use. 
+When starting out with a new repository, you only need create it once: either locally, and then push to GitHub, or by cloning an existing repository by using the command "git init".
+"git add" moves changes from the working directory to the staging area. 
+"git status" allows you to see the state of your working directory and the staged snapshot of your changes. 
+"git commit" takes your staged snapshot of changes and commits them to the project. 
+"git reset" undoes changes that you’ve made to the files in your working directory. 
+"git log" enables you to browse previous changes to a project. 
+"git branch" lets you create an isolated environment within your repository to make changes. 
+"git checkout" lets you see and change existing branches. 
+"git merge" lets you put everything back together again. 
+
+GitHub is the online hosting service for Git repositories.
+Repositories is data structure store documents including application source code and enable contributors to track and maintain version-control.
+What is special about the Git Repository model? Git is designed as a distributed version-control system. 
+Primarily focused on tracking source code during development. 
+Contains elements to coordinate among programmers, track changes, and support non-linear workflows.
+
+An organization is a collection of user accounts that owns repositories. 
+Organizations have one or more owners, who have administrative privileges for the organization.
+Repositories are storage structures that can hold Code, track Issues, and enable you to collaborate with others.
