@@ -35,3 +35,13 @@ Track issues and changes
 Enable you to collaborate with others
 
 G​it is one of the most popular distributed version control systems. GitHub, GitLab and Bitbucket are examples of hosted version control systems.
+
+All files in GitHub exist on a branch. 
+The Master Branch contains the finished, deployable version of the code. 
+Create new branches when you need to change the code. 
+The new branch starts as an exact copy of the original branch. 
+As you make changes, the branch that you created holds the changed code. 
+More than one branch can be undergoing changes at the same time. 
+Saved changes are called commits. 
+Pull requests enables other users to review and use the proposed changes (committed). 
+When you are ready to merge the changed code into the master branch, you merge the committed code changes into your master code.
