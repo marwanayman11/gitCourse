@@ -45,3 +45,5 @@ More than one branch can be undergoing changes at the same time.
 Saved changes are called commits. 
 Pull requests enables other users to review and use the proposed changes (committed). 
 When you are ready to merge the changed code into the master branch, you merge the committed code changes into your master code.
+
+The git diff command can help others reviewing your code to to identify and compare the changes.
